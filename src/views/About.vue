@@ -9,8 +9,8 @@
 export default {
   methods: {
     jump() {
-        this.$router.push({ path: '/'});
-    }
-  }
-}
+      this.$router.push({ path: "/" });
+    },
+  },
+};
 </script>
